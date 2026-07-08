@@ -1,0 +1,10 @@
+# Build and whatever
+target
+builddir
+result
+build
+debug
+
+# Other shit
+.DS_Store
+.vscode

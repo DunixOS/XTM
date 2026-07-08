@@ -1,0 +1,4 @@
+[package]
+name = "xtask"
+edition = "2024"
+version.workspace = true
